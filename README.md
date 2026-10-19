@@ -10,6 +10,10 @@
 
 <!-- In the GitHub editor, drag images/slicer_demo.mp4 onto the line below to embed the video -->
 
+
+https://github.com/user-attachments/assets/12ab0aa5-7cd4-4702-81dd-4d01a8f8289d
+
+
 A 30-second walkthrough of the slicers filtering the page. [Download the video](images/slicer_demo.mp4)
 
 ## The problem
